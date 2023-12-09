@@ -1,0 +1,3 @@
+Maven Build Tool
+Artifact = end product given to the user ex : hi.exe
+Build tool like maven takes "source code" as input and converts it in to artifact
